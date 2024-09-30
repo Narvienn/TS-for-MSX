@@ -7,4 +7,4 @@
 let myFirstName: string = "Zos";
 
 //IMPLICIT TYPING - variable type is assumed from the first value declared for the variable:
-let myLastName - "Vonho";
+let myLastName = "Vonho";
